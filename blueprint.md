@@ -6,6 +6,7 @@ A web application providing personalized styling services. Users can input their
 ## Project Outline
 - **Tech Stack**: React (TypeScript), Vite, Material UI (MUI).
 - **Design Philosophy**: Modern, clean, and interactive user interface. High contrast, clean typography, and intuitive navigation.
+- **Deployment**: Cloudflare Pages (https://test260222.pages.dev)
 - **Features**:
   - User Profile Setup (Current Focus).
   - Photo Upload.
